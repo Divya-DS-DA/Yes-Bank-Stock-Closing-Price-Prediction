@@ -1,9 +1,13 @@
 # Yes-Bank-Stock-Closing-Price-Prediction
-Yes-Bank-Stock-Closing-Price-Prediction
-Problem Statement
-Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
+Problem Statement:
 
+Intriguing Case:
 
+Yes Bank, a prominent Indian financial institution, faced a major challenge in 2018 due to a fraud case. This situation raises an intriguing question: how did this event impact the bank's stock prices, and can predictive models effectively capture such market fluctuations?
+
+Data Insights:
+
+This dataset provides monthly stock prices of Yes Bank since its inception, including closing, starting, highest, and lowest prices for each month. The primary goal is to predict the bank's future closing stock price.
 
 Project Approach
 A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called "shares." The value of shares depends on the investors, whether more people are buying the stock or selling it, follows the simple supply – demand rule.
